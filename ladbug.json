@@ -353,10 +353,10 @@
 	],
 	"Maps": [{
       "id":1,
-      "nama_map":"Lady Bug Skins Map MOD",
-      "map_url":"https://ia801505.us.archive.org/27/items/wirwolp/The%20Werewolves.zip",
-      "view_map":"https://my.mcpedl.com/storage/worlds/4530/images/the-werewolves_8.png",
-      "des_map":"https://my.mcpedl.com/storage/worlds/4530/images/the-werewolves_8.png"
+      "nama_map":"Lady Bug Map",
+      "map_url":"https://raw.githubusercontent.com/bro-cell/ladybg/main/ladybugmap.zip",
+      "view_map":"https://raw.githubusercontent.com/bro-cell/ladybg/main/ladymap.jpeg",
+      "des_map":"https://raw.githubusercontent.com/bro-cell/ladybg/main/ladymap.jpeg"
     },
 	{
 			"id": 2,
